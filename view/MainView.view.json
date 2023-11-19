@@ -1,0 +1,13 @@
+{
+    "Type": "sap.ui.core.mvc.JSONView",
+    "controllerName": "com.ui5learners.controller.Main",
+    "content": [
+      {
+        "Type": "sap.m.Text",
+        "id":"idButton",
+        "text": "JSON View Content",
+        "press":"onButtonPress"
+      }
+    ]
+  }
+  
